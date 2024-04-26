@@ -1,0 +1,15 @@
+
+ISOLAMENTO:
+Quando si parla di isolamento, ci si riferisce a un metodo per separare il sistema infetto dalla rete interna, limitando così le opzioni dell'attaccante all'interno della rete. Tuttavia, è importante tener presente che nonostante questo isolamento, il sistema compromesso rimane comunque accessibile all'attaccante attraverso il vasto e senza confini mondo dell'internet, dando loro la possibilità di continuare a mettere a repentaglio la sicurezza del sistema da remoto. In poche parole, l'isolamento non rende il sistema immune agli attacchi dall'esterno, ma limita solo le possibilità di movimento dell'attaccante all'interno della rete interna.
+RIMOZIONE:
+Quindi, con la rimozione, si procede a eliminare completamente il sistema dalla rete, rendendolo completamente inaccessibile sia dalla rete interna che dall'internet. Questo metodo va oltre l'isolamento, poiché non solo limita l'accesso dell'attaccante alla rete interna, ma impedisce loro completamente di accedere al sistema infetto. In pratica, l'attaccante non avrà più alcuna possibilità di interagire con il sistema compromesso, poiché è stato completamente rimosso dalla rete, garantendo così una maggiore sicurezza e protezione contro futuri attacchi.
+PURGE:
+Per proteggere i dati in modo permanente su un disco o dispositivo di storage, adottiamo un approccio che combina sia misure logiche che misure fisiche. Le misure fisiche impiegate, tuttavia, sono non invasive e non comportano la distruzione dell'hardware.
+
+Questo significa che oltre a utilizzare tecniche di sovrascrittura dei dati e crittografia per eliminare in modo sicuro le informazioni dal disco in modo logico, implementiamo anche procedure fisiche che garantiscono la loro eliminazione permanente senza compromettere l'integrità dell'hardware.
+
+Possiamo ad esempio adottare procedure di degaussing per eliminare magneticamente i dati dal disco senza danneggiarlo fisicamente, o utilizzare tecniche avanzate di cancellazione che sfruttano campi magnetici per riassestare le informazioni presenti sul disco in modo che diventino inaccessibili.
+
+In questo modo, garantiamo una sicurezza completa dei dati, sia dal punto di vista logico che fisico, senza compromettere il funzionamento dell'hardware di storage.
+DESTROY
+Quindi, quando si parla di "destroy", si tratta di utilizzare metodi fisici estremamente invasivi per rendere completamente inaccessibili i dati presenti su un disco o un dispositivo di storage. Alcune di queste tecniche implicano la distruzione del hardware stesso, rendendo praticamente impossibile il recupero delle informazioni in esso contenute. Questo è il metodo preferito quando si desidera eliminare definitivamente un disco che non verrà più utilizzato, anche se è da considerare che è anche il metodo più costoso. In sostanza, si tratta di una soluzione estrema per garantire la sicurezza dei dati, ma può comportare un costo elevato.
